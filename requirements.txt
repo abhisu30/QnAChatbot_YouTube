@@ -126,7 +126,6 @@ jupyterlab==3.6.1
 jupyterlab-pygments==0.2.2
 jupyterlab_server==2.19.0
 kiwisolver==1.4.4
-kor==0.9.1
 kubernetes==29.0.0
 langchain==0.0.153
 langchain-community==0.0.28
@@ -192,7 +191,7 @@ numpy==1.23.5
 oauthlib==3.2.2
 olefile==0.46
 onnxruntime==1.17.1
-openai>=0.27,<0.28
+openai==1.2.0
 openai-whisper @ git+https://github.com/openai/whisper.git@248b6cb124225dd263bb9bd32d060b6517e067f8
 openapi-schema-pydantic==1.2.4
 openpyxl==3.1.1
