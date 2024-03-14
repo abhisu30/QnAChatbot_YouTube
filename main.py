@@ -14,7 +14,6 @@ from pytube import YouTube
 from docx import Document
 import whisper
 import re
-import openai
 
 # Function to validate YouTube URL
 def validate_youtube_url(url):
