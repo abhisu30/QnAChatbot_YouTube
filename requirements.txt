@@ -227,7 +227,6 @@ proglog==0.1.10
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
 proto-plus==1.22.3
-protobuf==3.20.3
 psutil==5.9.4
 psycopg2-binary==2.9.3
 pulsar-client==3.4.0
